@@ -1,0 +1,9 @@
+{
+  "name":"node-ldapjs-pg",
+  "version":"0.0.1",
+  "dependencies":{
+    "commander":"1.0.0",
+    "ldapjs":"0.5.x",
+    "pg":"0.8.3"
+  }
+}
